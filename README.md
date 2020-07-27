@@ -1,4 +1,5 @@
-<h1>The goal is to explore both content based recommendation and collaborative filtering </h1>
-<strong>approach for the recommendation of movies. </strong>
+<h1><u>GOAl<u></h1>
+<strong>The goal is to explore both content based recommendation and collaborative filtering 
+approach for the recommendation of movies. </strong>
 
 
